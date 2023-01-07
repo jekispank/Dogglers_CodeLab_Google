@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Dogglers</string>
+    <string name="dog1_name">Corgi</string>
+    <string name="dog2_name">Akita Inu</string>
+    <string name="dog3_name">Husky</string>
+    <string name="dog4_name">Cocker Spaniel</string>
+    <string name="dog5_name">Labrador</string>
+    <string name="dog6_name">Jack Russell Terrier</string>
+    <string name="dog7_name">Doberman</string>
+    <string name="dog8_name">Collie</string>
+    <string name="dog9_name">Golden retriever</string>
+    <string name="dog10_name">Dachshund</string>
+    <string name="vertical">Vertical</string>
+    <string name="horizontal">Horizontal</string>
+    <string name="grid">Grid</string>
+
+</resources>
